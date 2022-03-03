@@ -4,9 +4,9 @@ Here you can find some python Notebooks used for data analysis on paper [Anycast
 We have the following notebooks:
 
 - [ddos-poison-fig14](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/ddos-poison-fig14/graph-poison-path.ipynb): Analysis of poison experiments
-- ``playbook_analysis``: Basic building of a playbook from stats and analysis.
-- ``tangled-catchment-distribution-fig6``: Catchment distribution analysis
-- ``tangled-catchment-prepend``: Analysis of path prepend impact on the Tangled testbed
+- [playbook_analysis](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/playbook_analysis/Playbook-Analysis-Tangled-Catchment-load-distribution.ipynb): Basic building of a playbook from stats and analysis.
+- [tangled-catchment-distribution-fig6](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/tangled-catchment-distribution-fig6/Tangled-Catchment-load-distribution-usenix-fig6.ipynb): Catchment distribution analysis
+- [tangled-catchment-prepend](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/tangled-catchment-prepend/Tangled-Catchment-load-distribution.ipynb): Analysis of path prepend impact on the Tangled testbed
 
 Each notebook have an example dataset on directory as and example. Notebooks used to create paper figures are indicated (fig6,fig14).
 
