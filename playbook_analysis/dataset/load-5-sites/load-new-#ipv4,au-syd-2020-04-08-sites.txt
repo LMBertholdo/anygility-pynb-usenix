@@ -1,0 +1,9 @@
+#active_nodes,ipv4,au-syd
+#bgp_policy,#
+#date,
+#site,counts,percent
+au-syd-anycast01,3397759,55
+us-mia-anycast01,2,0
+jp-hnd-anycast01,1,0
+unknown,2727994,44
+

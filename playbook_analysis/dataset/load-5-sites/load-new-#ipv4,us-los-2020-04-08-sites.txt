@@ -1,0 +1,9 @@
+#active_nodes,ipv4,us-los
+#bgp_policy,#
+#date,
+#site,counts,percent
+us-los-anycast01,3512106,57
+us-mia-anycast01,2,0
+jp-hnd-anycast01,1,0
+unknown,2613647,42
+
