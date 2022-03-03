@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # anygylity_pynb_usenix
 Here you can find some python Notebooks used for data analysis on paper [Anycast Agility: Network Playbooks to Fight DDoS](https://ant.isi.edu/bib/Rizvi22a.html).
+=======
+# anygility_pynb_usenix
+Here you can find some python Notebooks used for data analysis on paper [Anycast Agility: Network Playbooks to Fight DDoS](https://arxiv.org/abs/2006.14058#:~:text=IP%20anycast%20is%20used%20for,%2DService%20(DDoS)%20attacks).
+>>>>>>> 58348b628c1bc42905ac8c248dab1b6b45d92dc6
 
 We have the following notebooks:
 
@@ -8,6 +13,6 @@ We have the following notebooks:
 - [tangled-catchment-distribution-fig6](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/tangled-catchment-distribution-fig6/Tangled-Catchment-load-distribution-usenix-fig6.ipynb): Catchment distribution analysis
 - [tangled-catchment-prepend](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/tangled-catchment-prepend/Tangled-Catchment-load-distribution.ipynb): Analysis of path prepend impact on the Tangled testbed
 
-Each notebook have an example dataset on directory as and example. Notebooks used to create paper figures are indicated (fig6,fig14).
+Each notebook have a dataset on directory as example. Those notebooks were used to create paper figures as indicated (fig6,fig14).
 
 More information and datasets can be found at [Datasets About Anycast Agility Against DDoS in Tangled Testbed](https://ant.isi.edu/datasets/anycast/anycast_against_ddos/tangled/index.html)
