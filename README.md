@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# anygylity_pynb_usenix
-Here you can find some python Notebooks used for data analysis on paper [Anycast Agility: Network Playbooks to Fight DDoS](https://ant.isi.edu/bib/Rizvi22a.html).
-=======
 # anygility_pynb_usenix
-Here you can find some python Notebooks used for data analysis on paper [Anycast Agility: Network Playbooks to Fight DDoS](https://arxiv.org/abs/2006.14058#:~:text=IP%20anycast%20is%20used%20for,%2DService%20(DDoS)%20attacks).
->>>>>>> 58348b628c1bc42905ac8c248dab1b6b45d92dc6
+
+Here you can find some python Notebooks used for data analysis on paper [Anycast Agility: Network Playbooks to Fight DDoS](https://ant.isi.edu/bib/Rizvi22a.html).
 
 We have the following notebooks:
 
