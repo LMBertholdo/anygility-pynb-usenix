@@ -1,0 +1,16 @@
+﻿site;provider;poison Y/N
+au-syd-anycast01;AS20473;no
+br-gru-anycast01;AS20080;YES
+br-poa-anycast02;AS264575, AS262605;YES
+fr-par-anycast01;AS20473;no
+uk-lnd-anycast02;AS20473;no
+us-sea-anycast01;AS20473;no
+us-los-anycast01;AS226;no
+us-mia-anycast01;AS20080;YES
+us-was-anycast01;AS4;no
+de-fra-anycast01;AS20473;no
+sg-sin-anycast01;AS20473;no
+dk-cop-anycast01;AS39839;no
+za-jnb-anycast01;AS61317;YES
+nl-ens-anycast02;AS1133;no
+nl-ams-anycast01;AS20473;no

@@ -1,0 +1,12 @@
+#active_nodes,ipv4,fr-par,au-syd,uk-lnd,us-mia,us-los
+#bgp_policy,prepend-negative-5x-uk-lnd-anycast02
+#date,
+#site,counts,percent
+uk-lnd-anycast02,2125252,34
+us-los-anycast01,1216966,19
+us-mia-anycast01,168918,2
+fr-par-anycast01,38622,0
+au-syd-anycast01,33354,0
+jp-hnd-anycast01,1,0
+unknown,2542643,41
+

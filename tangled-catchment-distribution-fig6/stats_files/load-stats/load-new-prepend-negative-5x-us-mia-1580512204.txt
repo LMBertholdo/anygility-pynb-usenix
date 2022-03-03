@@ -1,0 +1,13 @@
+#active_nodes,ipv4,br-poa,us-mia,au-syd,uk-lnd,fr-par,us-was,jp-hnd
+#bgp_policy,prepend-negative-5x-us-mia-anycast01
+#date,2020-01-31-23:10:04
+#site,count,percent
+us-mia-anycast01,2203564,35
+us-was-anycast01,496524,8
+br-poa-anycast01,349794,5
+uk-lnd-anycast02,296137,4
+au-syd-anycast01,41203,0
+fr-par-anycast01,36928,0
+jp-hnd-anycast01,1,0
+unknown,2730637,44
+

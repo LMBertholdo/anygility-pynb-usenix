@@ -1,0 +1,11 @@
+#active_nodes,
+#bgp_policy,prepend-negative-5x-us-mia-anycast01
+#date,2019-12-09-08:59:34
+#site,count,percent
+us-mia-anycast01,3076811,50
+uk-lnd-anycast02,358294,5
+au-syd-anycast01,52980,0
+fr-par-anycast01,33228,0
+jp-hnd-anycast01,1,0
+unknown,2633474,42
+

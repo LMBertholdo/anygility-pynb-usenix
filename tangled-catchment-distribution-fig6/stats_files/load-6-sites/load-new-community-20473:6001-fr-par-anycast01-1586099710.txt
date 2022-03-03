@@ -1,0 +1,13 @@
+#active_nodes,ipv4,nl-ens,uk-lnd,fr-par,au-syd,us-mia,br-poa,us-los
+#bgp_policy,community-20473:6001-fr-par-anycast01
+#date,
+#site,counts,percent
+br-poa-anycast01,972505,15
+uk-lnd-anycast02,919245,15
+au-syd-anycast01,651465,10
+us-mia-anycast01,531319,8
+nl-ens-anycast02,463813,7
+fr-par-anycast01,43258,0
+jp-hnd-anycast01,1,0
+unknown,2544150,41
+

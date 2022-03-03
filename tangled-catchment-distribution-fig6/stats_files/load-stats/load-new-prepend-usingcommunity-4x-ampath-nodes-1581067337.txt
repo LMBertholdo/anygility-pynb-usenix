@@ -1,0 +1,13 @@
+#active_nodes,ipv4,us-mia,au-syd,fr-par,br-poa,us-was,jp-hnd,uk-lnd
+#bgp_policy,prepend-usingcommunity-4x-ampath-nodes
+#date,2020-02-07-09:22:17
+#site,count,percent
+uk-lnd-anycast02,948870,15
+au-syd-anycast01,778058,12
+br-poa-anycast01,736437,12
+us-was-anycast01,551891,9
+fr-par-anycast01,282535,4
+us-mia-anycast01,78227,1
+jp-hnd-anycast01,1,0
+unknown,2778769,45
+

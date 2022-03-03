@@ -1,0 +1,5 @@
+Catchment Node Distribution:
+uk-lnd-anycast02 | 2145904 -  60%  █████████████████████████
+au-syd-anycast01 |  973233 -  27%  ███████████▎
+fr-par-anycast01 |  450060 -  12%  █████
+us-mia-anycast01 |       0 - 0

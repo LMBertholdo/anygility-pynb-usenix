@@ -1,0 +1,12 @@
+#active_nodes,ipv4,us-mia,us-was,jp-hnd,dk-cop,uk-lnd,br-poa,au-syd
+#bgp_policy,withdraw-fr-par-anycast01
+#date,2020-02-05-12:54:36
+#site,count,percent
+uk-lnd-anycast02,898451,14
+br-poa-anycast01,785460,12
+au-syd-anycast01,588814,9
+us-mia-anycast01,568066,9
+us-was-anycast01,524606,8
+jp-hnd-anycast01,1,0
+unknown,2789390,45
+

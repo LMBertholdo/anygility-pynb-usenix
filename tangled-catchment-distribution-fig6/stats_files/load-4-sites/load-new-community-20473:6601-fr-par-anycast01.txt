@@ -1,0 +1,9 @@
+#timestamp,1586289098
+#site,counts,percent
+uk-lnd-anycast02,1468831,24
+us-mia-anycast01,958418,15
+au-syd-anycast01,713311,11
+fr-par-anycast01,450159,7
+jp-hnd-anycast01,1,0
+unknown,2535036,41
+

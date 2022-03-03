@@ -1,0 +1,9 @@
+#active_nodes,ipv4,uk-lnd
+#bgp_policy,#
+#date,
+#site,counts,percent
+uk-lnd-anycast02,3595653,58
+us-mia-anycast01,2,0
+jp-hnd-anycast01,1,0
+unknown,2530100,41
+

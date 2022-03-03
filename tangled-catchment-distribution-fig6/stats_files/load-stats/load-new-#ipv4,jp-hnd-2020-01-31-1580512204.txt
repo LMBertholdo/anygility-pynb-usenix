@@ -1,0 +1,7 @@
+#active_nodes,ipv4,jp-hnd
+#bgp_policy,#
+#date,2020-01-31-23:10:04
+#site,count,percent
+jp-hnd-anycast01,3352231,54
+unknown,2802557,45
+
