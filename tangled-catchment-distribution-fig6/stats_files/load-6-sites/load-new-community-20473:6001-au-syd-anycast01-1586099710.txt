@@ -1,4 +1,4 @@
-#active_nodes,
+#active_nodes,ipv4,nl-ens,br-poa,uk-lnd,fr-par,us-mia,us-los,au-syd
 #bgp_policy,community-20473:6001-au-syd-anycast01
 #date,
 #site,counts,percent

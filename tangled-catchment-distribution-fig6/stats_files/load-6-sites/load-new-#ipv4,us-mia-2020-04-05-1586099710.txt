@@ -1,8 +1,0 @@
-#active_nodes,ipv4,us-mia
-#bgp_policy,#
-#date,
-#site,counts,percent
-us-mia-anycast01,3607817,58
-jp-hnd-anycast01,1,0
-unknown,2517938,41
-

@@ -1,4 +1,4 @@
-#active_nodes,
+#active_nodes,ipv4,au-syd,fr-par,uk-lnd,us-mia
 #bgp_policy,prepend-negative-5x-us-mia-anycast01
 #date,2019-12-09-08:59:34
 #site,count,percent

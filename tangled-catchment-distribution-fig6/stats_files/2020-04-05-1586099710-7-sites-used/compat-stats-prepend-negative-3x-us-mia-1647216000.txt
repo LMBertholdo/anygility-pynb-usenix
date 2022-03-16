@@ -1,0 +1,16 @@
+#active_nodes,au-syd,br-poa,fr-par,nl-ens,uk-lnd,us-los,us-mia
+#bgp_policy,prepend-negative-3x-us-mia
+#date, 
+#timestamp,1647216000
+#policy,prepend-negative-3x-us-mia
+#timestamp,1647293022
+#hitlist,not_provided
+site,counts,percent
+us-mia-anycast01,2441316,67
+nl-ens-anycast02,509083,14
+uk-lnd-anycast02,362700,10
+br-poa-anycast01,195140,5
+fr-par-anycast01,50848,1
+au-syd-anycast01,38372,1
+jp-hnd-anycast01,1,0
+
