@@ -4,8 +4,8 @@ Here you can find dataset and tools used in our experiments described on the pap
 
 We based our investigation on jupyter notebook. You can find the following notebooks:
 
-- *BGP poisoning*: Experiments on Tangled testbed using BGP poisoning traffic engineering technicque [[ddos-poison-fig14]](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/ddos-poison-fig14/graph-poison-path.ipynb) 
-- *Catchment Distribution*: Experiments on catchment distribution using different setups [[playbook_analysis]](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/playbook_analysis/Playbook-Analysis-Tangled-Catchment-load-distribution.ipynb)
+- *BGP poisoning*: Experiments on Tangled testbed using BGP poisoning traffic engineering technicque [[playbook]](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/ddos-poison-fig14/graph-poison-path.ipynb) 
+- *Catchment Distribution*: Experiments on catchment distribution using different setups [[playbook]](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/playbook_analysis/Playbook-Analysis-Tangled-Catchment-load-distribution.ipynb)
 - [tangled-catchment-distribution-fig6](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/tangled-catchment-distribution-fig6/Tangled-Catchment-load-distribution-usenix-fig6.ipynb): Catchment distribution analysis
 - [tangled-catchment-prepend](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/tangled-catchment-prepend/Tangled-Catchment-load-distribution.ipynb): Analysis of path prepend impact on the Tangled testbed
 
