@@ -1,0 +1,10 @@
+#policy,prepend-negative-4x-br-poa-anycast02
+#timestamp,1648128675
+#hitlist,not_provided
+site,counts,percent
+br-poa-anycast02,1967574,64
+au-syd-anycast01,619058,20
+uk-lnd-anycast02,241292,7
+us-mia-anycast01,154553,5
+fr-par-anycast01,85116,2
+

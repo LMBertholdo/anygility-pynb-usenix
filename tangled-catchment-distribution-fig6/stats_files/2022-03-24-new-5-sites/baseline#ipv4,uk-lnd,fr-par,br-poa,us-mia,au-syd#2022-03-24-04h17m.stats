@@ -1,0 +1,10 @@
+#policy,baseline
+#timestamp,1648096609
+#hitlist,not_provided
+site,counts,percent
+uk-lnd-anycast02,877247,28
+au-syd-anycast01,786285,25
+fr-par-anycast01,639643,20
+br-poa-anycast02,497424,16
+us-mia-anycast01,265890,8
+
