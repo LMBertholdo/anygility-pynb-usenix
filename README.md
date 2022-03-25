@@ -1,11 +1,11 @@
-# anygility_pynb_usenix
+# Anycast Agility: Tangled Datasets and Tools   
 
-Here you can find some python Notebooks used for data analysis on paper [Anycast Agility: Network Playbooks to Fight DDoS](https://ant.isi.edu/bib/Rizvi22a.html).
+Here you can find dataset and tools used in our experiments described on the paper [Anycast Agility: Network Playbooks to Fight DDoS](https://ant.isi.edu/bib/Rizvi22a.html). We provide tools and resources to reproduce the figures on the paper. 
 
-We have the following notebooks:
+We based our investigation on jupyter notebook. You can find the following notebooks:
 
-- [ddos-poison-fig14](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/ddos-poison-fig14/graph-poison-path.ipynb): Analysis of poison experiments
-- [playbook_analysis](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/playbook_analysis/Playbook-Analysis-Tangled-Catchment-load-distribution.ipynb): Basic building of a playbook from stats and analysis.
+- *BGP poisoning*: Experiments on Tangled testbed using BGP poisoning traffic engineering technicque [[ddos-poison-fig14]](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/ddos-poison-fig14/graph-poison-path.ipynb) 
+- *Catchment Distribution*: Experiments on catchment distribution using different setups [[playbook_analysis]](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/playbook_analysis/Playbook-Analysis-Tangled-Catchment-load-distribution.ipynb)
 - [tangled-catchment-distribution-fig6](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/tangled-catchment-distribution-fig6/Tangled-Catchment-load-distribution-usenix-fig6.ipynb): Catchment distribution analysis
 - [tangled-catchment-prepend](https://github.com/LMBertholdo/anygility-pynb-usenix/blob/main/tangled-catchment-prepend/Tangled-Catchment-load-distribution.ipynb): Analysis of path prepend impact on the Tangled testbed
 
